@@ -1,6 +1,6 @@
 # Cloud-Hosting-Solution-for-TradeMe
 
-This is a project for Cloud Computing paper while author was studying in 2nd year of BIT
+This is a project for Cloud Computing paper while author was studying in 2nd year of BIT.
 The repository contains 3 digrams and a full documentation.
 
 The project requires to design cloud solution based on 3 levels of business scale for the TradeMe company.
