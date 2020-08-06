@@ -1,9 +1,9 @@
-# Cloud-Hosting-Solution-for-TradeMe
+# Cloud Hosting Solution for TradeMe
 
 This is a project for Cloud Computing paper while author was studying in 2nd year of Bachelor of Information Technology.
 The repository contains 3 diagrams and a full documentation.
 
-The project requires to design cloud solutions based on 3 levels of business scale for the TradeMe company as the background, And the cloud hosting techniques are crosing from IaaS(infrastructure), LaaS(load balancer as a server) to k8s(Kubernetes).
+The project requires to design cloud solutions based on 3 levels of business scale for the TradeMe company as the background, And the cloud hosting techniques are across from IaaS(infrastructure), LaaS(load balancer as a server) to k8s(Kubernetes).
 
 ###### Hint: all requirement are not real as all given by tutor.
 
